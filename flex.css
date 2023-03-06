@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+	padding: 0;
+  height: auto;
+}
+header {
+ 
+}
+ 
+main {
+  min-height: calc(100vh - 80px);
+}
+ 
+footer {
+
+}

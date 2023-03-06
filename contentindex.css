@@ -1,0 +1,861 @@
+body {
+    font-size: 14px;
+  }
+  .v1_26 {
+    width: 100%;
+    height: 906px;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_12 {
+    width: 100%;
+    height: 906px;
+    background: url("/images/img_____.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_5 {
+    width: 100%;
+    height: 906px;
+    background: rgba(93,107,230,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_4 {
+    width: 100%;
+    height: 699px;
+    background: url("/images/img_____.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 206px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_6 {
+    width: 925px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 316px;
+    left: 296px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v1_11 {
+    width: 392px;
+    height: 101px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 617px;
+    left: 524px;
+    overflow: hidden;
+  }
+  .pop_button
+  {
+    width: 392px;
+    height: 101px;
+    background: rgba(250,255,39,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .v1_10 {
+    width: 324px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 28px;
+    left: 34px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v78_29 {
+    width: 615px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 422px;
+  left: 432px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+  }
+  .v1_23 {
+    width: 100%;
+    height: 628px;
+    background: url("../images/v1_23.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_24 {
+    width: 100%;
+    height: 628px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_28 {
+    width: 915px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 50px;
+    left: 259px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_35 {
+    width: 236px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 258px;
+    left: 245px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_36 {
+    width: 236px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 258px;
+    left: 520px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_37 {
+    width: 233px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 258px;
+    left: 795px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_38 {
+    width: 236px;
+    color: rgba(23,96,236,1);
+    position: absolute;
+    top: 258px;
+    left: 1068px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v30_3 {
+    width: 100%;
+    height: 1438px;
+    background: url("../images/v30_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1500px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v30_2 {
+    width: 100%;
+    height: 100%;
+    background: rgba(93,107,230,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v32_17 {
+    width: 418px;
+    height: 557px;
+    background: url("../images/v32_17.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 149px;
+    left: 30px;
+    overflow: hidden;
+  }
+  .v30_4 {
+    width: 401px;
+    height: 254px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 68px;
+    left: 18px;
+    overflow: hidden;
+  }
+  .v32_19 {
+    width: 401px;
+    height: 254px;
+    background: url("/images/img_genub_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 68px;
+    left: 18px;
+    overflow: hidden;
+  }
+  .v32_42 {
+    width: 398px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 347px;
+    left: 21px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_39 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Medium;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v33_137 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 523px;
+    left: 21px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_20 {
+    width: 425px;
+    height: 559px;
+    background: url("../images/v32_20.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 147px;
+    left: 505px;
+    overflow: hidden;
+  }
+  .v30_5 {
+    width: 416px;
+    height: 254px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v32_22 {
+    width: 416px;
+    height: 254px;
+    background: url("/images/img_ps_min_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v32_40 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Medium;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v32_43 {
+    width: 411px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 349px;
+    left: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v33_140 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 525px;
+    left: 4px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_23 {
+    width: 439px;
+    height: 559px;
+    background: url("../images/v32_23.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 147px;
+    left: 965px;
+    overflow: hidden;
+  }
+  .v30_6 {
+    width: 416px;
+    height: 254px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 70px;
+    left: 12px;
+    overflow: hidden;
+  }
+  .v32_25 {
+    width: 416px;
+    height: 254px;
+    background: url("/images/img_remontub_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 70px;
+    left: 12px;
+    overflow: hidden;
+  }
+  .v32_41 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 21px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Medium;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v32_44 {
+    width: 397px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 349px;
+    left: 21px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v33_141 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 525px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_26 {
+    width: 420px;
+    height: 582px;
+    background: url("../images/v32_26.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 825px;
+    left: 32px;
+    overflow: hidden;
+  }
+  .v30_7 {
+    width: 396px;
+    height: 256px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 69px;
+    left: 13px;
+    overflow: hidden;
+  }
+  .v32_28 {
+    width: 396px;
+    height: 256px;
+    background: url("/images/img_ubdivan_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 69px;
+    left: 13px;
+    overflow: hidden;
+  }
+  .v32_38 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v32_47 {
+    width: 398px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 359px;
+    left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v33_144 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 548px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_29 {
+    width: 418px;
+    height: 580px;
+    background: url("../images/v32_29.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 827px;
+    left: 500px;
+    overflow: hidden;
+  }
+  .v30_8 {
+    width: 410px;
+    height: 256px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 67px;
+    left: 9px;
+    overflow: hidden;
+  }
+  .v32_32 {
+    width: 410px;
+    height: 256px;
+    background: url("/images/img_ubcover_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 67px;
+    left: 9px;
+    overflow: hidden;
+  }
+  .v32_37 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Medium;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v32_46 {
+    width: 398px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 357px;
+    left: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v33_143 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 546px;
+    left: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v32_33 {
+    width: 425px;
+    height: 578px;
+    background: url("../images/v32_33.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 829px;
+    left: 965px;
+    overflow: hidden;
+  }
+  .v30_9 {
+    width: 416px;
+    height: 256px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 65px;
+    left: 9px;
+    overflow: hidden;
+  }
+  .v32_35 {
+    width: 419px;
+    height: 256px;
+    background: url("../images/img_windowub_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 65px;
+    left: 6px;
+    overflow: hidden;
+  }
+  .v32_36 {
+    width: 418px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Medium;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v32_45 {
+    width: 398px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 355px;
+    left: 3px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v33_142 {
+    width: 347px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 544px;
+    left: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v31_13 {
+    width: 767px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 28px;
+    left: 329px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v112_49 {
+    width: 90%;
+    height: 621px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3000px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v112_47 {
+    width: 602px;
+    height: 621px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v104_22 {
+    width: 531px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v104_23 {
+    width: 553px;
+    height: 311px;
+    background: url("../images/vopros.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 68px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v104_24 {
+    width: 602px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 397px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v112_48 {
+    width: 604px;
+    height: 594px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    bottom: 60px;
+    left: 600px;
+    overflow: hidden;
+  }
+  .v104_21 {
+    width: 531px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v104_30 {
+    width: 596px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 144px;
+    left: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 26px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v104_31 {
+    width: 596px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 263px;
+    left: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 26px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v104_32 {
+    width: 596px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 392px;
+    left: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 26px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v104_33 {
+    width: 596px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 514px;
+    left: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 26px;
+    opacity: 1;
+    text-align: left;
+  }
+  .accordion {
+    width: 800px;
+    margin: 90px auto;
+    color: black;
+    background-color: white;
+    padding: 45px 45px;
+  }
+  .accordion .label {
+    position: relative;
+    padding: 10px 0;
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .accordion .container {
+    position: relative;
+    margin: 10px 10px;
+  }
+  .accordion .label::before {
+    content: '+';
+    color: black;
+    position: absolute;
+    top: 50%;
+    right: -5px;
+    font-size: 30px;
+    transform: translateY(-50%);
+  }
+  .accordion .content {
+    position: relative;
+
+    height: 0;
+    font-size: 20px;
+    text-align: justify;
+    width: 780px;
+    overflow: hidden;
+    transition: 0.5s;
+    top:30px;
+    font-family: 'Montserrat', sans-serif;
+  } 
+  .accordion hr {
+    width: 100;
+    margin-left: 0;
+    border: 1px solid grey;
+  }
+  h1 {
+    text-align: left;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Regular;
+    font-size: 26px;
+    top: 100px;
+  }
+  .accordion .container.active .content {
+    height: 150px;
+  }
+  
+  /* Changes from plus sign to negative sign once active */
+  
+  .accordion .container.active .label::before {
+    content: '-';
+    font-size: 30px;
+  }
